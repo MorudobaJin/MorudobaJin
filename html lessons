@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang = "ru">
+	<head>
+		<title>Как принять ислам?</title>
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+	</head>
+	<link rel="stylesheet" type="text/css" href="css/stylecss2.css">
+	<body>
+		<div><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua.
+		<br / ><span class="w"> Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. </span>Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></div>
+		<form action="#" method="post">
+		<p>
+		<input placeholder="Имя моей сучки" type="text" name="username" value="">
+		<input placeholder="Волшебное слово моей сучки" type="password" name="username" value="">
+		<p>Порода моей сучки</p>
+		<p><div><input type="radio" name="chekc" value=""></div>犬</p>
+		<p><div><input type="radio" name="chekc" value=""></div>猫</p>
+		<br / >
+		<p><div><input type = "radio" name="chrck" value=""></div>Описание</p>
+</p>
+<p><div><input type = "radio" name="chrck" value=""></div>Описание 2</p>
+</p>
+<br / >
+		<p><div><input type = "checkbox" name="chrck" value=""></div>Описание</p>
+</p>
+
+<textarea></textarea>
+<br / >
+<p>Цвет моей сучки</p>
+<div>
+<select>name = "color"
+<option value ="red">red</option>
+<option value ="blue">blue</option>
+<option value ="kor">kor</option>
+<option value ="ok">cum</option>
+<option value ="ok">cum</option>
+</select>
+</div>
+<p><button type="submit">Отпрвить</button><button type="reset">Всё по новой, Миша</button></p>
+
+<div class="invision">
+	<p>
+		text
+	</p>
+	<span>sex</span>
+</div>
+</form>
+	</body>
+	</html>
+  
+  
+/*----------------------------------------------------------/
+
+
+
+<!DOCTYPE html>
+<html lang = "ru">
+	<head>
+		<title>Намбер ту</title>
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+	</head>
+	<link rel="stylesheet" type="text/css" href="news.css">
+	<body>
+		<p class="hoho">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+		<br>
+		<p class="arial">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <br>
+		<p class="ca">morte este gracies</p>
+		<br>
+		<p class="cele">Tvoi glaza - takie chistie kak nebo, tvoya dusha... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<br>
+		<p class="ca"><input type="radio" name="chekc" value=""></div>犬></p>
+		<p class="ca"><input type="radio" name="chekc" value=""></div>猫</p>
+		<br>
+		<p class="bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<p class="hoho">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<span class="lineb">Некий строчный тег</span>
+		<p class="ci">aaa</p>
+	</body>
+	</html>
+
+
+
+/*----------------------------------------------------------/
+
+
