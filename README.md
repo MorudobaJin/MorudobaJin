@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MorudobaJin
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently learning python, js and datdabase.
+- 👀 I’m interested in web developing (JS and C#).
+- 🌱 I’m currently learning web technonlojies, js and datdabases soft.
 
 <!---
 MorudobaJin/MorudobaJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
