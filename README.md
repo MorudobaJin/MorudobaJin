@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @MorudobaJin aka Berezov M
-- C# JS developer. Have experience with GUI
+- 👋 Hi, I’m @MorudobaJin aka maxber
+- mobile, JS and and etc and etc developer.
+- bruh - dart - flutter - python - flask - web deployment - ngnix - wsgi - experince with legacy code - postgres - git - oracle - big data
+- Have experience with GUI
 
 
 <!---
